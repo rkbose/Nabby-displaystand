@@ -2,6 +2,9 @@
 
 The displaystand is intended to house a Seeed Studio XIAO ESP32C6 module with battery and sensors. There will be different variants (will) containing different sensors or actuators.
 
+This branch is designed to accomodate a 1.3 inch IPS-TFT Display 240*240 pixels - SPI - ST7789V3 - 3.3V.
+The approx PCB size is: 30.5 x 38 mm
+
 
 TAGS KAROTZ NABAZTAG NANOZTAG ESP32 
 
